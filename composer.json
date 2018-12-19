@@ -16,7 +16,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.13",
-        "bower-asset/jquery-treegrid": "0.3.0"
+        "maxazan/jquery-treegrid": "0.3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
